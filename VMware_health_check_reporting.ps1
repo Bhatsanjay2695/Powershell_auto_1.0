@@ -59,7 +59,7 @@ else
 
 
 
-$mailbody=@" "
+$mailbody=@" write the HTML body content, add the attributes which you want to display in mail "
 
 
 
